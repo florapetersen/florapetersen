@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! Thanks for stopping by 👋
 
 <!--
 **florapetersen/florapetersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
